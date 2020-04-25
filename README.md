@@ -6,4 +6,7 @@ Day 1 : Learned and implemented about the Basic Introduction to Express.Js.
         
 Day 2 : Learned and implemented about the Express Routers
         Link for the repo. - https://github.com/pranjals149/NodeExpressRouter-Day2
+        
+Day 3 : Successfully implemented some more examples of Express Routers
+        Link for the repo. - https://github.com/pranjals149/MoreOfExpress-Day3.git
          
