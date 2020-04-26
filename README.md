@@ -9,4 +9,7 @@ Day 2 : Learned and implemented about the Express Routers
         
 Day 3 : Successfully implemented some more examples of Express Routers
         Link for the repo. - https://github.com/pranjals149/MoreOfExpress-Day3.git
+        
+Day 4 : Learned and implemented Express Generator
+        Link for the repo. - https://github.com/pranjals149/ExpressGenerator-Day4
          
