@@ -12,4 +12,7 @@ Day 3 : Successfully implemented some more examples of Express Routers
         
 Day 4 : Learned and implemented Express Generator
         Link for the repo. - https://github.com/pranjals149/ExpressGenerator-Day4
-         
+        
+Day 5 & 6 : Skipped and Learned about the basics of MongoDB.
+Day 7 : Learned and implemented MongoDb with Assert Module
+        Link for the repo - https://github.com/pranjals149/MongoAssert-Day7
