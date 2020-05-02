@@ -23,3 +23,6 @@ Day 8 : Practiced more of MongoDB driver with assert module.
         
 Day 9 : Learned about Callback Hell and implemented Promises to avoid the Hell
         Link for the repo. - https://github.com/pranjals149/CallbackHellPromises-Day9
+        
+Day 10 : Learned and implemented the basics of Mongoose
+        Link for the repo. - https://github.com/pranjals149/Mongoose-Day10
