@@ -29,3 +29,6 @@ Day 10 : Learned and implemented the basics of Mongoose
         
 Day 11 : Practised more concepts of Mongoose with Node.Js
         Link for the repo.- https://github.com/pranjals149/MoreOfExpress---Day11
+        
+Day 12 : Added Support for Mongoose Currency in MongoDB driver
+        Link for the repo. - https://github.com/pranjals149/AddingMongooseCurrency-Day12
