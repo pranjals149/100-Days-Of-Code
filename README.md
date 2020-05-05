@@ -32,3 +32,6 @@ Day 11 : Practised more concepts of Mongoose with Node.Js
         
 Day 12 : Added Support for Mongoose Currency in MongoDB driver
         Link for the repo. - https://github.com/pranjals149/AddingMongooseCurrency-Day12
+        
+Day 13 : Added Supported for User Defined Comments in Mongoose
+        Link for the repo. - https://github.com/pranjals149/Support-For-Adding-Comments---Day13
