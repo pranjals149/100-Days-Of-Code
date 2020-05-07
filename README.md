@@ -38,3 +38,6 @@ Day 13 : Added Supported for User Defined Comments in Mongoose
         
 Day 14 : Implemented Unit Testing in JavaScript
         Link for the repo.- https://github.com/pranjals149/Unit-Testing---Day14
+        
+Day 15 : Added Extended Support for Mongoose end points for REST API
+        Link for the repo. - https://github.com/pranjals149/Added-Extended-Support---Day-15
