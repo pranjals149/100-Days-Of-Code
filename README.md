@@ -41,3 +41,6 @@ Day 14 : Implemented Unit Testing in JavaScript
         
 Day 15 : Added Extended Support for Mongoose end points for REST API
         Link for the repo. - https://github.com/pranjals149/Added-Extended-Support---Day-15
+        
+Day 16 : Started Raact and implemented the functionality of the search field.
+        Link for the repo. - https://github.com/pranjals149/Day16
