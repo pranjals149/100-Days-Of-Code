@@ -42,5 +42,8 @@ Day 14 : Implemented Unit Testing in JavaScript
 Day 15 : Added Extended Support for Mongoose end points for REST API
         Link for the repo. - https://github.com/pranjals149/Added-Extended-Support---Day-15
         
-Day 16 : Started Raact and implemented the functionality of the search field.
+Day 16 : Started React and implemented the functionality of the search field.
         Link for the repo. - https://github.com/pranjals149/Day16
+        
+Day 17 : Implemented Unscrollable Search Bar in react. Also, completed Day 4 for 30 days of JS
+        Link for the repo. - https://github.com/pranjals149/UnscrollableBar---Day17
