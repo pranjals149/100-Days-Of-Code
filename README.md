@@ -47,3 +47,6 @@ Day 16 : Started React and implemented the functionality of the search field.
         
 Day 17 : Implemented Unscrollable Search Bar in react. Also, completed Day 4 for 30 days of JS
         Link for the repo. - https://github.com/pranjals149/UnscrollableBar---Day17
+        
+Day 18 : Implemented Day 5 of 30-Days-of-Code challenge.
+        Link for the repo - https://github.com/pranjals149/Hackerrank---30-Days-Of-JavaScript/tree/master/Day%205%20:%20Loops
