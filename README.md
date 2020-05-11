@@ -50,3 +50,6 @@ Day 17 : Implemented Unscrollable Search Bar in react. Also, completed Day 4 for
         
 Day 18 : Implemented Day 5 of 30-Days-of-Code challenge.
         Link for the repo - https://github.com/pranjals149/Hackerrank---30-Days-Of-JavaScript/tree/master/Day%205%20:%20Loops
+        
+Day 19 : Implemented Day 6 of 30-Days-Of-Code challenge.
+        Link for the repo - https://github.com/pranjals149/Hackerrank---30-Days-Of-JavaScript/tree/master/Day%206%20:%20Lets%20Review
