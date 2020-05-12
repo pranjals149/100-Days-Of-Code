@@ -53,3 +53,6 @@ Day 18 : Implemented Day 5 of 30-Days-of-Code challenge.
         
 Day 19 : Implemented Day 6 of 30-Days-Of-Code challenge.
         Link for the repo - https://github.com/pranjals149/Hackerrank---30-Days-Of-JavaScript/tree/master/Day%206%20:%20Lets%20Review
+
+Day 20 : Implemented Authentication Middleware and Day 7 of 30 Days Of JavaScript
+        Link for the repo. - https://github.com/pranjals149/Day20
