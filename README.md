@@ -62,3 +62,6 @@ Day 21 : Written article on "Writing Memory efficient applications in node.js". 
         
 Day 22 : Implemented Cookie-parser. Also, Implemented day 9 of 30-Days-of-JavaScript.
         Link for the repo. - https://github.com/pranjals149/Day22
+        
+Day 23 : Written article at GeeksForGeeks on Cookie-Parser using ExpressJs. 
+        Link for the repo. - https://github.com/pranjals149/Day23
