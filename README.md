@@ -65,3 +65,6 @@ Day 22 : Implemented Cookie-parser. Also, Implemented day 9 of 30-Days-of-JavaSc
         
 Day 23 : Written article at GeeksForGeeks on Cookie-Parser using ExpressJs. 
         Link for the repo. - https://github.com/pranjals149/Day23
+        
+Day 24 : Implemented express sessions and file store. Also, completed day 10 and day 11 of 30-Days-Of-JavaScript
+        link for the repo. - https://github.com/pranjals149/Day24
