@@ -68,3 +68,6 @@ Day 23 : Written article at GeeksForGeeks on Cookie-Parser using ExpressJs.
         
 Day 24 : Implemented express sessions and file store. Also, completed day 10 and day 11 of 30-Days-Of-JavaScript
         link for the repo. - https://github.com/pranjals149/Day24
+        
+Day 25 : Attempted Google Kickstart Round C Challenges.
+        Link for the repo. - https://github.com/pranjals149/Day25
