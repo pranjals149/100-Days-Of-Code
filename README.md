@@ -73,3 +73,6 @@ Day 25 : Attempted Google Kickstart Round C Challenges.
         Link for the repo. - https://github.com/pranjals149/Day25
         
 Day 26 : Written an article on Parcel.js.
+
+Day 27 : Successfully implemented a Web-Application Builder known as Parcel.js.
+        Link for the repo. - https://github.com/pranjals149/Day27
