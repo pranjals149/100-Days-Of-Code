@@ -79,3 +79,6 @@ Day 27 : Successfully implemented a Web-Application Builder known as Parcel.js.
     
 Day 28 : Implemented passport-local-mongoose for an application.
         Link for the repo. - https://github.com/pranjals149/Day28
+        
+Day 29 : Implemented passport-local startegy for authentication.
+        Link for th repo. - https://github.com/pranjals149/Day29
