@@ -82,3 +82,6 @@ Day 28 : Implemented passport-local-mongoose for an application.
         
 Day 29 : Implemented passport-local startegy for authentication.
         Link for th repo. - https://github.com/pranjals149/Day29
+        
+Day 30 : Implemented Readline Module - Node.Js. Also, written an article for GeeksForGeeks on Readline Module.
+        Link for the repo. - https://github.com/pranjals149/Day30
