@@ -93,3 +93,6 @@ Day 32 : Added much secure way of authentication to an application.
         
 Day 33 : Implemented GraphQL Schema in Node.js with Apollo Server.
         Link for the repo. - https://github.com/pranjals149/Day33
+        
+Day 34 : Implemented Secure connection with https and openssl.
+        Link for the repo. - https://github.com/pranjals149/Day34
