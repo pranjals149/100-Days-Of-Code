@@ -96,3 +96,6 @@ Day 33 : Implemented GraphQL Schema in Node.js with Apollo Server.
         
 Day 34 : Implemented Secure connection with https and openssl.
         Link for the repo. - https://github.com/pranjals149/Day34
+        
+Day 35 : Implemented user-agents module of javascript for generating and manipulating with user agents.
+        Link for the repo. - https://github.com/pranjals149/Day35
