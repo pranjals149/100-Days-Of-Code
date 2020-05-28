@@ -99,3 +99,6 @@ Day 34 : Implemented Secure connection with https and openssl.
         
 Day 35 : Implemented user-agents module of javascript for generating and manipulating with user agents.
         Link for the repo. - https://github.com/pranjals149/Day35
+        
+Day 36 : Implemented image uploading in node.js
+        Link for the repo. - https://github.com/pranjals149/Day36
