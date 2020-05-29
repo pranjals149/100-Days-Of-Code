@@ -102,3 +102,5 @@ Day 35 : Implemented user-agents module of javascript for generating and manipul
         
 Day 36 : Implemented image uploading in node.js
         Link for the repo. - https://github.com/pranjals149/Day36
+        
+Day 37 : Implemented Puppeteer library in NodeJS.
