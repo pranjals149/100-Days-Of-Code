@@ -104,3 +104,6 @@ Day 36 : Implemented image uploading in node.js
         Link for the repo. - https://github.com/pranjals149/Day36
         
 Day 37 : Implemented Puppeteer library in NodeJS.
+
+Day 38 : Implemented Cross Origin Resource Sharing Module for Node.js.
+        Link for the repo. - https://github.com/pranjals149/Day38
