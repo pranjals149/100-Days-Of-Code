@@ -107,3 +107,6 @@ Day 37 : Implemented Puppeteer library in NodeJS.
 
 Day 38 : Implemented Cross Origin Resource Sharing Module for Node.js.
         Link for the repo. - https://github.com/pranjals149/Day38
+        
+Day 39 : Implemented Bcrypt module for Node.JS. Hashed passwords and compared the passwords provided by the user with the password already stored in the database.
+        Link for the repo. - https://github.com/pranjals149/Day39
