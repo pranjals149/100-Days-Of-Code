@@ -110,3 +110,6 @@ Day 38 : Implemented Cross Origin Resource Sharing Module for Node.js.
         
 Day 39 : Implemented Bcrypt module for Node.JS. Hashed passwords and compared the passwords provided by the user with the password already stored in the database.
         Link for the repo. - https://github.com/pranjals149/Day39
+        
+Day 40 : Made a port scanner.
+        Link for the repo. - https://github.com/pranjals149/Day39
