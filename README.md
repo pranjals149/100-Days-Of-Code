@@ -112,4 +112,4 @@ Day 39 : Implemented Bcrypt module for Node.JS. Hashed passwords and compared th
         Link for the repo. - https://github.com/pranjals149/Day39
         
 Day 40 : Made a port scanner.
-        Link for the repo. - https://github.com/pranjals149/Day39
+        Link for the repo. - https://github.com/pranjals149/Day40
