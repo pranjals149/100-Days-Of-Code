@@ -113,3 +113,5 @@ Day 39 : Implemented Bcrypt module for Node.JS. Hashed passwords and compared th
         
 Day 40 : Made a port scanner.
         Link for the repo. - https://github.com/pranjals149/Day40
+        
+Day 41 : Learned about the Web Share API NodeJS.
