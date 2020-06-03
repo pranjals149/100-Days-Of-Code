@@ -115,3 +115,6 @@ Day 40 : Made a port scanner.
         Link for the repo. - https://github.com/pranjals149/Day40
         
 Day 41 : Learned about the Web Share API NodeJS.
+
+Day 42 : Implemented React Components in a Project that focuses on displaying various dishes.
+        Link for the repo. - https://github.com/pranjals149/Day42
