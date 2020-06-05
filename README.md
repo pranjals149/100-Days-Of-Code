@@ -121,3 +121,6 @@ Day 42 : Implemented React Components in a Project that focuses on displaying va
         
 Day 43 : Developed a dashboard for Process Production Manager for NodeJS.
         Link for the repo. - https://github.com/pranjals149/Day43
+        
+Day 44 : Implemented images in Card list and Media components with Bootstrap and React.
+        Link for the repo. - https://github.com/pranjals149/Day44
