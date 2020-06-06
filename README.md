@@ -124,3 +124,6 @@ Day 43 : Developed a dashboard for Process Production Manager for NodeJS.
         
 Day 44 : Implemented images in Card list and Media components with Bootstrap and React.
         Link for the repo. - https://github.com/pranjals149/Day44
+        
+Day 45 : Implemented Web Worker and published an article on the same.
+        Link for the repo. - https://github.com/pranjals149/Day45
