@@ -127,3 +127,6 @@ Day 44 : Implemented images in Card list and Media components with Bootstrap and
         
 Day 45 : Implemented Web Worker and published an article on the same.
         Link for the repo. - https://github.com/pranjals149/Day45
+        
+Day 46 : Prevented various attacks like clickjacking, XSS, etc. by using Helmet.Js in my application.
+        Link for the repo. - https://github.com/pranjals149/Day46
