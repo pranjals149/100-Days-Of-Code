@@ -130,3 +130,6 @@ Day 45 : Implemented Web Worker and published an article on the same.
         
 Day 46 : Prevented various attacks like clickjacking, XSS, etc. by using Helmet.Js in my application.
         Link for the repo. - https://github.com/pranjals149/Day46
+        
+Day 47 : Integrated my NodeJs application with Redis.
+        Link for the repo. - https://github.com/pranjals149/Day47
