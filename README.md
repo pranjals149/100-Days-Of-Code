@@ -137,4 +137,7 @@ Day 47 : Integrated my NodeJs application with Redis.
 Day48 : Implemented the Preloading screen in my app and added support for dark mode.
 
 Day49 : Implemented CSURF module in my application.
-        Link for the repo. - https://github.com/pranjals149/Day47
+        Link for the repo. - https://github.com/pranjals149/Day49
+        
+Day 50 : Displayed messages as a flash message using connect-flash module | Node.js
+        Link fo the repo. - https://github.com/pranjals149/Day50
