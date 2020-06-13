@@ -145,5 +145,5 @@ Day 50 : Displayed messages as a flash message using connect-flash module | Node
 Day 51 : Generated and manipulated Error Status Codes along with their Error messages.
         Link for the repo. - https://github.com/pranjals149/Day51
         
-Day 52 :
+Day 52 : Implemented React Components and studied about the lifecycle of React.
         
