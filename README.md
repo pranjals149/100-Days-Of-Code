@@ -149,4 +149,6 @@ Day 52 : Implemented React Components and studied about the lifecycle of React.
         Link for the repo. - https://github.com/pranjals149/Day52
         
 Day 53 : Just learned and implemented OpenCV in Nodejs. 
+
+Day 54 : Passed a certification in Python and now heading towards the data structures and algorithm in Python.
         
