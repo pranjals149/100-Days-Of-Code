@@ -152,3 +152,4 @@ Day 53 : Just learned and implemented OpenCV in Nodejs.
 
 Day 54 : Passed a certification in Python and now heading towards the data structures and algorithm in Python.
         
+Day 55 : Resolved errors in database
