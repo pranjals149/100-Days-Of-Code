@@ -161,3 +161,5 @@ Day 57 : Debugging of my code !!
 Day 58 : Did Python Data Structures
 
 Day 59 : Improved UI experience of my app.
+
+Day 60 : Did some more data structures and competitive programming.
