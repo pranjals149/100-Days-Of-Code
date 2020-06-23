@@ -165,3 +165,6 @@ Day 59 : Improved UI experience of my app.
 Day 60 : Did some more data structures and competitive programming.
 
 Day 61 : Practiced more for Competitive Programming. Passed and earned a certification for data structures in Python
+
+Day 62 : Practiced More Competitive Programming.
+        Link to repo. - https://github.com/pranjals149/Python
