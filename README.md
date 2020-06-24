@@ -168,3 +168,6 @@ Day 61 : Practiced more for Competitive Programming. Passed and earned a certifi
 
 Day 62 : Practiced More Competitive Programming.
         Link to repo. - https://github.com/pranjals149/Python
+        
+Day 63 : Competitive Programming.
+        Link to repo. - https://github.com/pranjals149/Python
