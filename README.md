@@ -171,3 +171,6 @@ Day 62 : Practiced More Competitive Programming.
         
 Day 63 : Competitive Programming.
         Link to repo. - https://github.com/pranjals149/Python
+        
+Day 64 : Implemented Chat Bot in Artificial Intelligence using textblob in Python.
+        Link for the repo. - https://github.com/pranjals149/ChatBot---Sentiment-Analysis---Day-64.git
