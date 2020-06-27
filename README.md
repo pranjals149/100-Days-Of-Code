@@ -177,3 +177,6 @@ Day 64 : Implemented Chat Bot in Artificial Intelligence using textblob in Pytho
         
 Day 65 : Learned and practiced concepts of OOP in Python.
         Link for the repo. - https://github.com/pranjals149/Python/Day-65--(edx).git
+        
+Day 66 : Implemented a TODO List by using only HTML, CSS, and JavaScript.
+        Link for the repo. - https://github.com/pranjals149/TODO-List-Day-66
