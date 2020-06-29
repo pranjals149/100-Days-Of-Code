@@ -183,3 +183,6 @@ Day 66 : Implemented a TODO List by using only HTML, CSS, and JavaScript.
         
 Day 67 : Practiced advanced topics for OOPs in Python.
         Link for the repo. - https://github.com/pranjals149/Python/tree/master/Day%2067%20(edx)
+        
+Day 68 : Done with the Portfolio site.
+        Link - https://pranjalportfolio.netlify.app/
