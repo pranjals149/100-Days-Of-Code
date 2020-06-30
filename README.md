@@ -186,3 +186,5 @@ Day 67 : Practiced advanced topics for OOPs in Python.
         
 Day 68 : Done with the Portfolio site.
         Link - https://pranjalportfolio.netlify.app/
+        
+Day 69 : Done with the writer's portal and practiced edx problems in python
