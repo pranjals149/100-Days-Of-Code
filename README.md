@@ -192,3 +192,5 @@ Day 69 : Done with the writer's portal and practiced edx problems in python.
 Day 70 and 71: Applying for Google Season of Docs. and done some python stuff
 
 Day 72 : Started Project Euler challenges.
+
+Day 73 : Improved my portfolio site.
