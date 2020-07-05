@@ -194,3 +194,5 @@ Day 70 and 71: Applying for Google Season of Docs. and done some python stuff
 Day 72 : Started Project Euler challenges.
 
 Day 73 : Improved my portfolio site.
+
+Day 74 : Took a break from coding, started preapring for end sems and revised concepts of Data Communication and Computer Networks.
