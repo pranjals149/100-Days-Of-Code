@@ -195,4 +195,4 @@ Day 72 : Started Project Euler challenges.
 
 Day 73 : Improved my portfolio site.
 
-Day 74 : Took a break from coding, started preapring for end sems and revised concepts of Data Communication and Computer Networks.
+Day 74 : Took a break from coding, started preparing for end sems and revised concepts of Data Communication and Computer Networks.
