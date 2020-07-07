@@ -198,3 +198,5 @@ Day 73 : Improved my portfolio site.
 Day 74 : Took a break from coding, started preparing for end sems and revised concepts of Data Communication and Computer Networks.
 
 Day 75 : Studied for Oracle Autonomous Database Specialist Certification Examination.
+
+Day 76 : Revised the concepts of Software Engineering and Project Management.
