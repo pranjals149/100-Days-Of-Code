@@ -200,3 +200,5 @@ Day 74 : Took a break from coding, started preparing for end sems and revised co
 Day 75 : Studied for Oracle Autonomous Database Specialist Certification Examination.
 
 Day 76 : Revised the concepts of Software Engineering and Project Management.
+
+Day 77 : Started to learn OpenCV
