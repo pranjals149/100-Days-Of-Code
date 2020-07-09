@@ -202,3 +202,5 @@ Day 75 : Studied for Oracle Autonomous Database Specialist Certification Examina
 Day 76 : Revised the concepts of Software Engineering and Project Management.
 
 Day 77 : Started to learn OpenCV
+
+Day 78: Made a beautifull GIF on my Overview Section of Github profile.
