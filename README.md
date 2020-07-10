@@ -203,4 +203,6 @@ Day 76 : Revised the concepts of Software Engineering and Project Management.
 
 Day 77 : Started to learn OpenCV
 
-Day 78: Made a beautifull GIF on my Overview Section of Github profile.
+Day 78: Made a beautiful GIF on my Overview Section of Github profile.
+
+Day 79 : Studied Python from AlgoExpert.
