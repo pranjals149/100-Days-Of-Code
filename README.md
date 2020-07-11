@@ -206,3 +206,5 @@ Day 77 : Started to learn OpenCV
 Day 78: Made a beautiful GIF on my Overview Section of Github profile.
 
 Day 79 : Studied Python from AlgoExpert.
+
+Day 80 : Learned to reduce the time complexity of a program.
