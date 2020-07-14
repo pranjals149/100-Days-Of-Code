@@ -211,5 +211,5 @@ Day 80 : Learned to reduce the time complexity of a program.
 
 Day 81 : Revised the concepts of digital forensics
 
-Day 82 : Deplayed a react app.
+Day 82 : Deployed a react app.
 
