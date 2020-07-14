@@ -213,3 +213,4 @@ Day 81 : Revised the concepts of digital forensics
 
 Day 82 : Deployed a react app.
 
+Day 83 : Started python again from EDX
