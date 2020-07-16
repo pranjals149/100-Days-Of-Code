@@ -216,3 +216,5 @@ Day 82 : Deployed a react app.
 Day 83 : Started python again from EDX.
 
 Day 84 : Started Podcasts
+
+Day 85 : Worked on a project to create random sentences, articles, and paragraphes. 
