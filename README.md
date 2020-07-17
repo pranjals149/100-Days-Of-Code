@@ -179,7 +179,7 @@ Day 65 : Learned and practiced concepts of OOP in Python.
         Link for the repo. - https://github.com/pranjals149/Python/Day-65--(edx).git
         
 Day 66 : Implemented a TODO List by using only HTML, CSS, and JavaScript.
-        Link for the repo. - https://github.com/pranjals149/TODO-List-Day-66
+        Link for the repo. - https://github.com/pranjals149/Random-Generator-Day-66
         
 Day 67 : Practiced advanced topics for OOPs in Python.
         Link for the repo. - https://github.com/pranjals149/Python/tree/master/Day%2067%20(edx)
@@ -219,4 +219,5 @@ Day 84 : Started Podcasts
 
 Day 85 : Worked on a project to create random sentences, articles, and paragraphes. 
 
-day 86 : getting hands-on with adobe XD.
+day 86 : Created a nodejs app to randomly log articles, paragraphs, and sentences. Also, getting hands-on with adobe XD.
+Link for the repo. - https://github.com/pranjals149/Random-Generator-Day-66
