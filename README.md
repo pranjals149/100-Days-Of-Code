@@ -221,3 +221,5 @@ Day 85 : Worked on a project to create random sentences, articles, and paragraph
 
 day 86 : Created a nodejs app to randomly log articles, paragraphs, and sentences. Also, getting hands-on with adobe XD.
 Link for the repo. - https://github.com/pranjals149/Random-Generator-Day-66
+
+Day 87 : Getting hands-on with Adobe-XD.
