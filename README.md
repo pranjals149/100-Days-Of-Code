@@ -225,3 +225,5 @@ Link for the repo. - https://github.com/pranjals149/Random-Generator-Day-66
 Day 87 : Getting hands-on with Adobe-XD.
 
 Day 88 : Implemented Random Name Generator for JavaScript based on the keywords given.
+
+Day 89 : Implemented Python. 
