@@ -235,3 +235,5 @@ Day 91 : Started serverless backend with firebase.
 Day 92 : Started studying for aptitude test for Goldman Sachs internship hiring.
 
 Day 93 : Started problem solving.
+
+Day 94 : Made progress to DevChannel.
