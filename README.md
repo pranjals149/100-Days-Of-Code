@@ -241,3 +241,5 @@ Day 94 : Made progress to DevChannel.
 Day 95 : Made some progress. Added categories
 
 Day 96 : Added display messages component and support for adding messages to cloud.
+
+Day 97: Added support for sending messages by attaching media. 
