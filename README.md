@@ -243,3 +243,5 @@ Day 95 : Made some progress. Added categories
 Day 96 : Added display messages component and support for adding messages to cloud.
 
 Day 97: Added support for sending messages by attaching media. 
+
+Day 98 : Added Progress Bar at the bottom to show the media uploading progress.
