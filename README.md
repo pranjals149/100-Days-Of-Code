@@ -134,9 +134,9 @@ Day 46 : Prevented various attacks like clickjacking, XSS, etc. by using Helmet.
 Day 47 : Integrated my NodeJs application with Redis.
         Link for the repo. - https://github.com/pranjals149/Day47
         
-Day48 : Implemented the Preloading screen in my app and added support for dark mode.
+Day 48 : Implemented the Preloading screen in my app and added support for dark mode.
 
-Day49 : Implemented CSURF module in my application.
+Day 49 : Implemented CSURF module in my application.
         Link for the repo. - https://github.com/pranjals149/Day49
         
 Day 50 : Displayed messages as a flash message using connect-flash module | Node.js
