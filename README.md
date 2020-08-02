@@ -256,3 +256,5 @@ Day 101 : support for searching messages and users in react.
 
 Day 102 : Added Direct Message support.
 
+Day 103 : Direct messages are now stored in database
+
