@@ -254,5 +254,5 @@ Day 100: Apache Hadoop.
 
 Day 101 : support for searching messages and users in react.
 
-Day 101 : Added Direct Message support.
+Day 102 : Added Direct Message support.
 
