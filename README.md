@@ -258,3 +258,5 @@ Day 102 : Added Direct Message support.
 
 Day 103 : Direct messages are now stored in database
 
+Day 104 : Added functionality for starring the messages, added the support for displaying information of the category selected and the displaying the user who created it.
+
