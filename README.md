@@ -265,3 +265,5 @@ Day 105 : Finally completed and deployed DSupMeet.
 Day 106 : Started Virtual reality with Javascript.
 
 Day 107 : Started again with Competitve programming at algoexpert.
+
+Day 108: Did Python programming from EDX. Practiced OOPs concepts.
