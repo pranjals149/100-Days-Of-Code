@@ -269,3 +269,5 @@ Day 107 : Started again with Competitve programming at algoexpert.
 Day 108 : Did Python programming from EDX. Practiced OOPs concepts.
 
 Day 109 : Done with the aptitude exam of Goldman Sachs.
+
+Day 110 : Did python coding on EDX and codechef.
