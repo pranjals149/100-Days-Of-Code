@@ -273,3 +273,5 @@ Day 109 : Done with the aptitude exam of Goldman Sachs.
 Day 110 : Did python coding on EDX and codechef.
 
 Day 111 : Did Computer Graphics and done 30-days-of-code
+
+Day 112 : Written an started to implement virtual reality in javascript
