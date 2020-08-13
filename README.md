@@ -274,4 +274,6 @@ Day 110 : Did python coding on EDX and codechef.
 
 Day 111 : Did Computer Graphics and done 30-days-of-code
 
-Day 112 : Written an started to implement virtual reality in javascript
+Day 112 : Written an started to implement virtual reality in javascript.
+
+Day 113 : Implemented VR in Web domain and written article on the same.
