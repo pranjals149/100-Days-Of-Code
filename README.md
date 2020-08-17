@@ -283,3 +283,5 @@ Day 114 : Studied DSA for competitive coding.
 Day 115 : Solved Google Kickstart Previous problems.
 
 Day 116 : Coding Round @Google
+
+Day 117 : Worked on a tracking and monitoring system.
