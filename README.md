@@ -289,3 +289,5 @@ Day 117 : Worked on a tracking and monitoring system.
 Day 118 : Worked on creating a vscode theme.
 
 Day 119 : Made a little progress on my VSCODE theme.
+
+Day 120 : Focussed on creating documentations of my college project.
