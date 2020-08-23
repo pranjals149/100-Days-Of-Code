@@ -295,3 +295,5 @@ Day 120 : Focussed on creating documentations of my college project.
 Day 121 : Made my theme live.
 
 Day 122 : Made DFD for my latest project.
+
+Day 123 : Finally completed the synopsis report of my project.
