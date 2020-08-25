@@ -297,3 +297,5 @@ Day 121 : Made my theme live.
 Day 122 : Made DFD for my latest project.
 
 Day 123 : Finally completed the synopsis report of my project.
+
+Day 124 : Did some computer graphics.
