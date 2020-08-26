@@ -302,4 +302,6 @@ Day 124 : Did some computer graphics.
 
 Day 125 : Practiced DSA from Cracking the Coding Interview book.
 
-Day 126 : Practiced from EDX
+Day 126 : Practiced from EDX..
+
+Day 127 : Practiced from EDX and hackerearth
