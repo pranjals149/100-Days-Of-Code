@@ -301,3 +301,5 @@ Day 123 : Finally completed the synopsis report of my project.
 Day 124 : Did some computer graphics.
 
 Day 125 : Practiced DSA from Cracking the Coding Interview book.
+
+Day 126 : Practiced from EDX
