@@ -304,4 +304,6 @@ Day 125 : Practiced DSA from Cracking the Coding Interview book.
 
 Day 126 : Practiced from EDX..
 
-Day 127 : Practiced from EDX and hackerearth
+Day 127 : Practiced from EDX and hackerearth.
+
+Day 128 : Did competitive coding.
