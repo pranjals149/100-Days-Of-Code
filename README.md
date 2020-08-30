@@ -309,3 +309,5 @@ Day 127 : Practiced from EDX and hackerearth.
 Day 128 : Did competitive coding.
 
 Day 129 : Gave time to myself and did some workout.
+
+Day 130 : Enjoyed Weekend.
