@@ -311,3 +311,7 @@ Day 128 : Did competitive coding.
 Day 129 : Gave time to myself and did some workout.
 
 Day 130 : Enjoyed Weekend.
+
+Day 131 : Did some competitive coding.
+
+Day 132 : Did C++ for competitive coding.
