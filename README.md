@@ -316,5 +316,7 @@ Day 131 : Did some competitive coding.
 
 Day 132 : Did C++ for competitive coding.
 
-Day 133 : Started competitive coding in c++
+Day 133 : Started competitive coding in c++.
+
+Day 134 : Did Competitive coding in C++
 
