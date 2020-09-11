@@ -334,4 +334,6 @@ Day 140 : Coding stuffs.
 
 Day 141 : Did CP.
 
-Day 142 : Competitive coding
+Day 142 : Competitive coding.
+
+Day 143 : Competitive coding.
