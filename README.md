@@ -341,3 +341,5 @@ Day 143 : Competitive coding.
 Day 150 : Did Competitive coding and started to work on a project.
 
 Day 151 : Competitive coding.
+
+Day 152 : Did Competitive coding and also started working on a project side-by-side.
