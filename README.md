@@ -359,3 +359,5 @@ Day 158 : Did Competitive coding in CPP.
 Day 159 : Made a pen for my fav. players of IPL.
 Link - https://codepen.io/pranjals149/pen/poyxEGK
 
+Day 160 : Made my self intro page using pure CSS.
+
