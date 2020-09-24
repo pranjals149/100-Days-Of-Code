@@ -367,5 +367,8 @@ Day 161 : Made a lightning model using pure CSS.
 Link - https://github.com/pranjals149/CSS-Arts/tree/master/Button%20Lightnings
 Codepen's link - https://codepen.io/pranjals149/pen/XWdoGmv
 
-Day 
+Day 162 : Made a loading screen in pure CSS.
+
+Link - https://github.com/pranjals149/CSS-Arts/tree/master/Pre-loading%20Screen
+Codepen's link - https://codepen.io/pranjals149/pen/mdPvrOz
 
