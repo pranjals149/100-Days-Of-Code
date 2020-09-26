@@ -375,4 +375,6 @@ Codepen's link - https://codepen.io/pranjals149/pen/mdPvrOz
 Day 163 : Made a pen of Box animation using pure CSS.
 Link - https://github.com/pranjals149/CSS-Arts/tree/master/Box%20Animation
  Codepen's link - https://codepen.io/pranjals149/pen/PoNVvoY
+ 
+Day 164 : Made a pen of name blur animation.
 
