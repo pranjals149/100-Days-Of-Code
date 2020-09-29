@@ -386,5 +386,6 @@ github link - https://github.com/pranjals149/CSS-Arts/tree/master/Pure%20CSS%20C
 
 Day 167 : Made a pen named as Glowing Text Loader.
 Codepen Link - https://codepen.io/pranjals149/full/zYqXXoY
+Github link - https://github.com/pranjals149/CSS-Arts/tree/master/Glowing%20Text%20Loader
 
 
