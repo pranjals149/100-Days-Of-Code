@@ -384,3 +384,6 @@ Day 166 : Made a pen named Pure CSS Creative loader.
 Codepen link - https://codepen.io/pranjals149/full/KKzYMRe
 github link - https://github.com/pranjals149/CSS-Arts/tree/master/Pure%20CSS%20Creative%20Loader
 
+Day 167 : Made a pen named as Glowing Text Loader.
+
+
