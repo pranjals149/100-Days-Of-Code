@@ -388,4 +388,8 @@ Day 167 : Made a pen named as Glowing Text Loader.
 Codepen Link - https://codepen.io/pranjals149/full/zYqXXoY
 Github link - https://github.com/pranjals149/CSS-Arts/tree/master/Glowing%20Text%20Loader
 
+Day 168 : Made a pen named Unique CSS Loader using pure CSS.
+Codepen Link - https://codepen.io/pranjals149/full/XWdwydZ
+Github Link - https://github.com/pranjals149/CSS-Arts/tree/master/Unique%20CSS%20Loader
+
 
