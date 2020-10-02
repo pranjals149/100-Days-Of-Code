@@ -392,4 +392,8 @@ Day 168 : Made a pen named Unique CSS Loader using pure CSS.
 Codepen Link - https://codepen.io/pranjals149/full/XWdwydZ
 Github Link - https://github.com/pranjals149/CSS-Arts/tree/master/Unique%20CSS%20Loader
 
+Day 169 : Started Haktoberfest and made 4 Pull Requests.
+
+Day 170 : Made progress to my Spect app.
+
 
