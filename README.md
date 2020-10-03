@@ -396,4 +396,5 @@ Day 169 : Started Haktoberfest and made 4 Pull Requests.
 
 Day 170 : Made progress to my Spect app.
 
+Day 171 : Worked on Spect App.
 
