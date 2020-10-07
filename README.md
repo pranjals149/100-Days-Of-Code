@@ -406,3 +406,5 @@ Day 174 : Made a pen named "CSS Loading Screen"
 Codepen link - https://codepen.io/pranjals149/full/pobzaoZ
 Github link - https://github.com/pranjals149/CSS-Arts/tree/master/CSS%20Loading
 
+Day 175 : Made progress To spect app (deployment).
+
