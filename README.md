@@ -409,3 +409,5 @@ Github link - https://github.com/pranjals149/CSS-Arts/tree/master/CSS%20Loading
 Day 175 : Made progress To spect app (deployment).
 
 Day 176 : Intro to Shell scrpting.
+
+Day 177 : Started with #30DaysOfGoogleCloud.
