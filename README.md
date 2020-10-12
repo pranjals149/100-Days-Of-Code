@@ -419,3 +419,5 @@ Day 179 : Did competitive programming.
 Day 180 : Did competitive programming.
 
 Day 181 : Started working on my new project Linkage.
+
+Day 182 : Progressed the Linkage App.
