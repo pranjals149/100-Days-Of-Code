@@ -426,3 +426,5 @@ Day 183 : Progressed the Linkage App and did some competitive coding.
 
 Day 184 : Progressed the Linkage app.
 
+Day 185 : Worked on the linkage app's frontend.
+
