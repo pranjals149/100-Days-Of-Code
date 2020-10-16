@@ -428,3 +428,5 @@ Day 184 : Progressed the Linkage app.
 
 Day 185 : Worked on the linkage app's frontend.
 
+Day 186 : Finished the linkage app.
+
