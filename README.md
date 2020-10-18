@@ -430,3 +430,4 @@ Day 185 : Worked on the linkage app's frontend.
 
 Day 186 : Finished the linkage app.
 
+Day 187 : Progressed Epistle app.
