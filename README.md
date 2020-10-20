@@ -433,3 +433,5 @@ Day 186 : Finished the linkage app.
 Day 187 : Progressed Epistle app.
 
 Day 188 : Progressed Epistle app and wrote a writeup on Evidence Handling for my college.
+
+Day 189 : Progressed Epistle app.
